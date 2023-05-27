@@ -63,3 +63,10 @@ label:hover {
 .error {
   color: var(--error);
 }
+
+/* progress bar styles */
+.progress-bar {
+  height: 5px;
+  background: var(--primary);
+  margin-top: 20px;
+}
