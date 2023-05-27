@@ -1,8 +1,13 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
+import Title from "./components/Title";
 
 const App = () => {
-  return <div>ArtGallery App</div>;
+  return (
+    <div className="App">
+      <Title />
+    </div>
+  );
 };
 
 export default App;
