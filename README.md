@@ -1,1 +1,1 @@
-# ArtGalery-App
+# ArtGallery-App
